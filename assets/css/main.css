@@ -4109,3 +4109,6 @@ input, select, textarea {
 					}
 
 	}
+	.element-footer-gallery {
+		display: center;
+	}
